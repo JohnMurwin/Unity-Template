@@ -1,0 +1,11 @@
+# This ignores any generate CodeCoverage files from Unity Test Runner w/ Code Coverage enabled
+Unity-Template/CodeCoverage/
+
+#  JetBrains products (such as Rider) generated files
+.idea/
+
+# Visual Studio cache directory
+.vs/
+
+# Gradle cache directory
+.gradle/
