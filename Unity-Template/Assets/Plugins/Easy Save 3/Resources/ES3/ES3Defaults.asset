@@ -31,14 +31,12 @@ MonoBehaviour:
     assemblyNames:
     - Assembly-CSharp-firstpass
     - DOTweenPro.Scripts
-    - Impostors
     - uContext
     - Cinemachine
     - AmplifyImpostors
     - TheraBytes.BetterUi.Runtime
     - TechniePhysicsCreator
     - Assembly-CSharp
-    - Impostors.Examples
     - BakeryRuntimeAssembly
     - GrabbitAssembly
     - DOTween.Modules
@@ -47,7 +45,6 @@ MonoBehaviour:
     - Sirenix.OdinInspector.CompatibilityLayer
     - AIToASE
     - CodeStage.AFPSCounter.Examples
-    - AssetUsageFinder
     - AmplifyShaderEditor
     - Heureka_GlobalAssemblyDefinition
     - BakeryEditorAssembly
@@ -56,9 +53,7 @@ MonoBehaviour:
     - AH_AssemblyDefinition
     - TechniePhysicsCreatorEditor
     - Sirenix.OdinInspector.CompatibilityLayer.Editor
-    - Impostors.Editor
     - DOTweenPro.EditorScripts
-    - Sirenix.OdinInspector.Modules.UnityMathematics
     - CodeStage.AFPSCounter.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
