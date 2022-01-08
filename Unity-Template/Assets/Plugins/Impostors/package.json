@@ -1,0 +1,26 @@
+{
+  "name": "com.starasgames.impostors",
+  "version": "1.0.0",
+  "displayName": "Impostors",
+  "description": "This package provides solution for realtime impostor creation.",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.unity.burst": "1.4.6",
+    "com.unity.jobs": "0.2.10-preview.13",
+    "com.unity.collections": "0.9.0-preview.6",
+    "com.unity.mathematics": "1.1.0"
+  },
+  "keywords": [
+    "impostor",
+    "imposter",
+    "LOD",
+    "optimization",
+    "billboard"
+  ],
+  "author": {
+    "name": "STARasGAMES",
+    "email": "doterpoter@gmail.com",
+    "url": "https://forum.unity.com/threads/759110"
+  },
+  "type": "tool"
+}
